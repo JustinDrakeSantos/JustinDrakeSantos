@@ -250,19 +250,19 @@ body {
 }
 
 .words-golfer::after {
-    background-image: url(/Images/emoji-golfer.png);
+    background-image: url(../Images/emoji-golfer.png);
 }
 
 .words-baller::after {
-    background-image: url(/Images/emoji-basketball.png);
+    background-image: url(../Images/emoji-basketball.png);
 }
 
 .words-music::after {
-    background-image: url(/Images/emoji-headphones.png);
+    background-image: url(../Images/emoji-headphones.png);
 }
 
 .words-gamer::after {
-    background-image: url(/Images/emoji-controller.png);
+    background-image: url(../Images/emoji-controller.png);
 }
 
 @keyframes spin_words {
