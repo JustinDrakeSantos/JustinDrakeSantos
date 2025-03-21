@@ -363,9 +363,18 @@ body {
 }
 
 .about-text {
-
     color: var(--color-white);
     margin: 10px;
+}
+
+.about-text a {
+    text-decoration: none;
+    color: var(--color-atomic-tangerine);
+}
+
+.about-text a:hover {
+    text-decoration: underline var(--color-blue-100);
+    text-underline-offset: 0.5rem;
 }
 
 .about strong {
