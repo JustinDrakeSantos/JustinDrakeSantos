@@ -1,0 +1,12 @@
+@media screen and (max-width: 1200px) {
+    #navbar {
+        display: none;
+    }
+
+    #hamburger-nav {
+        display: flex;
+        justify-content: space-between;
+        background-color: var(--color-blue-100);
+    }
+}
+
